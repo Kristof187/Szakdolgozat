@@ -1,0 +1,62 @@
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.csproj.AssemblyReference.cache
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.csproj.GenerateResource.cache
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.csproj.CoreCompileInputs.cache
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\MySql.Data.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Szakdolgozat.exe.config
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Szakdolgozat.exe
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Szakdolgozat.pdb
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.Bevetelezes.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.Cimkezes.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.Kezdolap.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.Properties.Resources.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.exe
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.pdb
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Google.Protobuf.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Zstandard.Net.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\System.Memory.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\System.Buffers.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\MySql.Data.xml
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.Bejelentkezes.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.Sablon.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\OnBarcode.Barcode.WinForms.dll
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.Attarolas.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.Kiszallitas.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Szakdolgozat.RaktarInfo.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\Szakdolgozat.exe.config
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\Szakdolgozat.exe
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\Szakdolgozat.pdb
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\MySql.Data.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\OnBarcode.Barcode.WinForms.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\Google.Protobuf.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\Zstandard.Net.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\System.Memory.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\System.Buffers.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\bin\Debug\MySql.Data.xml
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.csproj.AssemblyReference.cache
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.Attarolas.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.Bejelentkezes.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.Bevetelezes.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.Cimkezes.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.Kezdolap.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.Kiszallitas.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.Properties.Resources.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.RaktarInfo.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.Sablon.resources
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.csproj.GenerateResource.cache
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.csproj.CoreCompileInputs.cache
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.exe
+C:\Users\tauz1\OneDrive\Asztali gép\Szakdolgozat\Szakdolgozat\Szakdolgozat\obj\Debug\Szakdolgozat.pdb

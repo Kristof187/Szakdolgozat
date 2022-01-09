@@ -1,0 +1,11 @@
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Konzultacio_GUI_Kep.exe.config
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Konzultacio_GUI_Kep.exe
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\bin\Debug\Konzultacio_GUI_Kep.pdb
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Konzultacio_GUI_Kep.csproj.AssemblyReference.cache
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Konzultacio_GUI_Kep.Properties.Resources.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Konzultacio_GUI_Kep.csproj.GenerateResource.cache
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Konzultacio_GUI_Kep.csproj.CoreCompileInputs.cache
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Konzultacio_GUI_Kep.exe
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Konzultacio_GUI_Kep.pdb
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Konzultacio_GUI_Kep.Kezdolap.resources
+C:\Users\tauz1\source\repos\Konzultacio_GUI_Kep\Konzultacio_GUI_Kep\obj\Debug\Konzultacio_GUI_Kep.Bevetelezes.resources
